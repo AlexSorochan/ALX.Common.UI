@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ALX.Common.UI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FontName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Tahoma</Value>
+    </Setting>
+    <Setting Name="FontSize" Type="System.Single" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="SkinName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Office 2010 Blue</Value>
+    </Setting>
+    <Setting Name="CloseButtonText" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Закрыть</Value>
+    </Setting>
+    <Setting Name="YesButtonText" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Да</Value>
+    </Setting>
+    <Setting Name="NoButtonText" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Нет</Value>
+    </Setting>
+    <Setting Name="CancelButtonText" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Отмена</Value>
+    </Setting>
+    <Setting Name="SaveButtonText" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Сохранить</Value>
+    </Setting>
+    <Setting Name="PrepareButtonText" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Подготовить</Value>
+    </Setting>
+    <Setting Name="SendButtonText" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Отправить</Value>
+    </Setting>
+    <Setting Name="OkButtonText" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ОК</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
